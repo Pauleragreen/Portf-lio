@@ -1,0 +1,62 @@
+/* Estilos para a página principal */
+body.index {
+    background: linear-gradient(to bottom, #3498db, #2980b9);
+    color: #ffffff;
+}
+
+/* Estilos para a página de Projetos em Lua */
+body.projetos-lua {
+    background: linear-gradient(to bottom, #e74c3c, #c0392b);
+    color: #ffffff;
+}
+
+/* Estilos para a página de Projetos em HTML */
+body.projetos-html {
+    background: linear-gradient(to bottom, #2ecc71, #27ae60);
+    color: #ffffff;
+}
+
+/* Estilos para a página de Projeto Final */
+body.projeto-final {
+    background: linear-gradient(to bottom, #f39c12, #d35400);
+    color: #ffffff;
+}
+
+/* Estilos para a página de Projetos Pessoais */
+body.projetos-pessoais {
+    background: linear-gradient(to bottom, #9b59b6, #8e44ad);
+    color: #ffffff;
+}
+
+/* Estilos para cabeçalho (opcional) */
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para a navegação (opcional) */
+nav {
+    background-color: #34495e;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ecf0f1;
+}
